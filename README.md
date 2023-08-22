@@ -1,14 +1,13 @@
-**Here is a summary of the work in this repository:**
+# **Here is an outline of the projects I've uploaded here:**
 
-_Landscape Classification:_ This contains a Tensorflow CNN I built to classify landscape images.
+## **Kaggle Projects:**
 
-_Job Post Classifier:_ This is a NLP project that uses Bag-of-Words to classift job posts as real or fake.
+#### _Age-Detecting Conditions:_ My Bronze Medal-winning solution for a $70,000 Kaggle competition around detecting a certain bodily disease using anonymized health data.
 
+#### _Spaceship Titanic:_ My solution to a Kaggle challenge with a fabricated dataset about a spaceship explosion, inspired by the infamous Titanic survival dataset.
 
+## **Personal Projects:**
 
-**_Kaggle Projects:_**
+#### _Landscape Classification:_ A Tensorflow CNN I built to classify six types of landscape images.
 
-_Age Detecting Conditions:_ This is my Bronze-medal winning solution for a $70,000
-
-
-_Spaceship Titanic:_ This is my solution to a binary classification Kaggle competition 
+#### _Job Post Classifier:_ An NLP project that determines the legitimacy of job postings from scraped job descriptions.
