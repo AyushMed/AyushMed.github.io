@@ -2,7 +2,7 @@
 
 ## **Kaggle Projects:**
 
-#### _Age-Detecting Conditions:_ My Bronze Medal-winning solution for a $70,000 Kaggle competition around detecting a certain bodily disease using anonymized health data.
+#### _Age-Detecting Conditions:_ My Bronze Medal-winning solution for a $60,000 Kaggle competition around detecting a certain bodily disease using anonymized health data.
 
 #### _Spaceship Titanic:_ My solution to a Kaggle challenge with a fabricated dataset about a spaceship explosion, inspired by the infamous Titanic survival dataset.
 
